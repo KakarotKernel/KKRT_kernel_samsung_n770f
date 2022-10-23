@@ -5361,11 +5361,6 @@ CONFIG_BCM_GPS_SPI_DRIVER=y
 CONFIG_SPU_VERIFY=y
 
 #
-# samsung Performace manager
-#
-CONFIG_KPERFMON=y
-
-#
 # Firmware Drivers
 #
 CONFIG_ARM_PSCI_FW=y
